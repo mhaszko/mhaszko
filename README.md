@@ -3,7 +3,7 @@
 ## About me
 🌍 I'm a Software Engineer based in Rzeszow, Poland 🇵🇱.
 
-🎂 I'm a 67-year-old Software Engineer passionate about building high-quality software and constantly improving my skills.
+🎂 I'm a 27-year-old Software Engineer passionate about building high-quality software and constantly improving my skills.
 
 💻 My main technology stack revolves around C++ and Python 🐍, and I'm constantly striving to enhance my skills in it.
 
