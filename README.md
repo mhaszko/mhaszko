@@ -1,11 +1,11 @@
 
 # Hello, I'm Michał 👋
 ## About me
-🌍 I'm a Software Test Engineer based in Krakow, Poland 🇵🇱.
+🌍 I'm a Software Engineer based in Rzeszow, Poland 🇵🇱.
 
-🎂 I'm 25 years old and passionate about testing and ensuring software quality.
+🎂 I'm a 67-year-old Software Engineer passionate about building high-quality software and constantly improving my skills.
 
-💻 My main technology stack revolves around Python 🐍, and I'm constantly striving to enhance my skills in it.
+💻 My main technology stack revolves around C++ and Python 🐍, and I'm constantly striving to enhance my skills in it.
 
 🚀 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/michał-haszko-707413234/) to learn more about my professional journey and explore potential collaborations!
 
